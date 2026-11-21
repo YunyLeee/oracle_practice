@@ -8,13 +8,13 @@
 
 * 관계형 데이터베이스는 Oracle 서버에서 제어되는 관계 또는 2차원 테이블 모음
 
-<img src="C:\Users\haebo\AppData\Roaming\Typora\typora-user-images\image-20261121163751292.png" alt="image-20261121163751292" style="zoom:80%;" />
+<img src="./images/image-20261121163751292.png" alt="image-20261121163751292" style="zoom:80%;" />
 
 
 
 ### 데이터 모델
 
-<img src="C:\Users\haebo\AppData\Roaming\Typora\typora-user-images\image-20261121163923911.png" alt="image-20261121163923911" style="zoom:80%;" />
+<img src="./images/image-20261121163923911.png" alt="image-20261121163923911" style="zoom:80%;" />
 
 
 
@@ -30,11 +30,11 @@ SQL(구조적 질의어)
 - 효율적
 - 하나의 SQL 문법으로 다른 DBMS에서 데이터 처리 할수있게 ANSI 표준으로 통일 
 
-![image-20261121164224987](C:\Users\haebo\AppData\Roaming\Typora\typora-user-images\image-20261121164224987.png)
+![image-20261121164224987](./images/image-20261121164224987.png)
 
 ### SQL 문
 
-<img src="C:\Users\haebo\AppData\Roaming\Typora\typora-user-images\image-20261121164256084.png" alt="image-20261121164256084" style="zoom:80%;" />
+<img src="./images/image-20261121164256084.png" alt="image-20261121164256084" style="zoom:80%;" />
 
 
 
@@ -43,7 +43,7 @@ SQL(구조적 질의어)
 - 기본도구 Oracle SQL Developer 
 - SQL*Plus 명령행 인터페이스 
 
-![image-20261121164458264](C:\Users\haebo\AppData\Roaming\Typora\typora-user-images\image-20261121164458264.png)
+![image-20261121164458264](./images/image-20261121164458264.png)
 
 설치 사이트
 
